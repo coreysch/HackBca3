@@ -2,6 +2,8 @@
 # 4/3/2016
 import time
 time.sleep(2)
+print "Welcome to Prison Break!"
+time.sleep(2)
 print "The Interactive Prison Escape Game"
 time.sleep(3)
 print "Created by Corey Schultz"
